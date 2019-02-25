@@ -612,13 +612,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
@@ -823,13 +821,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/exe" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/exe" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-11.0.0/lib" />
@@ -844,13 +840,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/9.0.6" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/9.0.6" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/lib" />
@@ -1420,11 +1414,13 @@
       <CLASSES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/etc-1.0.1/test" />
       </SOURCES>
       <excluded>
@@ -2243,7 +2239,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/spec" />
@@ -2252,7 +2247,6 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.5.2" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/mysql2-0.5.2-x64-mingw32/spec" />
@@ -2336,7 +2330,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.0.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/spec" />
@@ -2344,7 +2337,6 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.0.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.0.0/spec" />
@@ -2363,7 +2355,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -2371,7 +2362,6 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nio4r-2.3.1/spec" />
@@ -2390,14 +2380,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1-x64-mingw32/lib" />
@@ -2623,7 +2611,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/lib" />
@@ -2631,7 +2618,6 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.12.0/lib" />
@@ -2650,7 +2636,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.8.2" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/lib" />
@@ -2660,7 +2645,6 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.8.2" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/puma-3.8.2/lib" />
@@ -2738,6 +2722,22 @@
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.5/lib" />
       </SOURCES>
+    </library>
+    <library name="rack-proxy (v0.6.5, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rack-proxy-0.6.5/test" />
+      </excluded>
     </library>
     <library name="rack-test (v0.6.3, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
@@ -2998,13 +2998,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
@@ -3019,13 +3017,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.9.8" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.9.8" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.9.8/lib" />
@@ -3936,12 +3932,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/wdm/0.1.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/wdm-0.1.1/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/wdm-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/wdm/0.1.1" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/wdm-0.1.1/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/wdm-0.1.1/lib" />
       </SOURCES>
@@ -3959,6 +3953,31 @@
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="webpacker (v4.0.0.rc.7, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-4.0.0.rc.7/gemfiles" />
+      </excluded>
     </library>
     <library name="webrick (v1.4.2, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
@@ -3998,13 +4017,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
