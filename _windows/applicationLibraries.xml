@@ -22,6 +22,40 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actioncable-6.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailbox (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailbox-6.0.0.beta1/config" />
+      </excluded>
+    </library>
     <library name="actionmailer (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -42,6 +76,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailer-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailer-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionmailer-6.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -66,6 +111,35 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionpack-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionpack-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionpack-6.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actiontext (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actiontext-6.0.0.beta1/db" />
+      </excluded>
+    </library>
     <library name="actionview (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -86,6 +160,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionview-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionview-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/actionview-6.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -110,6 +195,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activejob-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activejob-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activejob-6.0.0.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -130,6 +226,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activemodel-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activemodel-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activemodel-6.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -164,6 +271,22 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-5.2.2/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-6.0.0.beta1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-6.0.0.beta1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activerecord-6.0.0.beta1/examples" />
+      </excluded>
+    </library>
     <library name="activestorage (v5.2.2, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -183,6 +306,27 @@
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-5.2.2/db" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-5.2.2/config" />
+      </excluded>
+    </library>
+    <library name="activestorage (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/app" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/db" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activestorage-6.0.0.beta1/config" />
       </excluded>
     </library>
     <library name="activesupport (v5.1.6.1, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -205,6 +349,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activesupport-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activesupport-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/activesupport-6.0.0.beta1/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.1, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -2625,6 +2780,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-dom-testing (v2.0.3, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2709,6 +2871,22 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-5.2.2/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.0.0.beta1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-6.0.0.beta1/exe" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-6.0.0.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-6.0.0.beta1/exe" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-6.0.0.beta1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/railties-6.0.0.beta1/exe" />
       </excluded>
     </library>
     <library name="rainbow (v3.0.0, ruby-2.5.3-p105) [gem]" type="rubylib">
