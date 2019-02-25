@@ -1289,6 +1289,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v5.0.2, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/factory_bot-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/factory_bot-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_girl (v4.9.0, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1694,6 +1705,52 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/launchy-2.4.3/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/launchy-2.4.3/spec" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/launchy-2.4.3/tasks" />
+      </excluded>
+    </library>
+    <library name="libv8 (v3.16.14.19, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/vendor" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/patches" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/release" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/vendor" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/patches" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/release" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/patches" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-3.16.14.19/release" />
+      </excluded>
+    </library>
+    <library name="libv8 (v6.7.288.46.1, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/libv8-6.7.288.46.1/spec" />
       </excluded>
     </library>
     <library name="listen (v3.1.5, ruby-2.5.3-p105) [gem]" type="rubylib">
@@ -2883,6 +2940,22 @@
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/redis-4.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="ref (v2.0.0, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ref-2.0.0/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ref-2.0.0/ext" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ref-2.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/ref-2.0.0/ext" />
+      </excluded>
     </library>
     <library name="regexp_parser (v1.3.0, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
