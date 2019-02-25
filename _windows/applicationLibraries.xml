@@ -1078,6 +1078,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script-source (v1.8.0, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/coffee-script-source-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/coffee-script-source-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
