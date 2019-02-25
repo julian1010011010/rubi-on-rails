@@ -612,11 +612,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/lib" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
@@ -3012,11 +3014,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rb-fsevent-0.10.3/lib" />
@@ -3967,6 +3971,31 @@
       <SOURCES>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="webpacker (v3.5.5, ruby-2.5.3-p105) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/docs" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/package" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/webpacker-3.5.5/gemfiles" />
+      </excluded>
     </library>
     <library name="webpacker (v4.0.0.rc.7, ruby-2.5.3-p105) [gem]" type="rubylib">
       <properties>
